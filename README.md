@@ -3,10 +3,10 @@
 ### Blake Muir
 *Drifting in the Astral plane*
 
-I run hosting and infrastructure in Newcastle, Australia. Outside work I'm into self-hosting, mesh networking, open source and memory for AI agents.
+I look after servers for a living and tinker with AI, radios and homelab gear the rest of the time.
 
 <br clear="left">
 
-Projects will show up here as I clean them up.
+Projects will land here once they're tidy enough to show.
 
 [LinkedIn](https://www.linkedin.com/in/blakemuir)
