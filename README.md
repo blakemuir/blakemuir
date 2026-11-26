@@ -3,7 +3,7 @@
 ### Blake Muir
 *Drifting in the Astral plane*
 
-I look after servers for a living and tinker with AI, radios and homelab gear the rest of the time.
+I look after servers for a living. The rest of the time I'm messing about with AI, radios and homelab gear.
 
 <br clear="left">
 
