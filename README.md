@@ -1,12 +1,13 @@
 <img src="avatar.jpg" width="96" align="left" style="border-radius:50%; margin-right:16px">
 
 ### Blake Muir
-*Drifting in the Astral plane*
 
-I look after servers for a living. The rest of the time I'm messing about with AI, radios and homelab gear.
+Infrastructure lead who builds and manages multi-cloud architecture under ISO 27001, 9001 and 42001. Ex VFX artist. The weird projects get written up on the blog, including the ones that blew up.
 
 <br clear="left">
 
-Projects will land here once they're tidy enough to show.
+**Working on**
+- A git-backed memory for AI agents, shared by every model and machine
+- geod, a report card for geofeeds
 
-[LinkedIn](https://www.linkedin.com/in/blakemuir)
+[Blog](https://blog.blakemuir.com) · [Mastodon](https://mastodon.social/@blakem) · [LinkedIn](https://www.linkedin.com/in/blakemuir)
